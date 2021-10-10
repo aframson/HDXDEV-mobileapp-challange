@@ -54,7 +54,7 @@
 
 >> Below are the stacks used to build the projects as required in the project instructions
 
-* [React Native.js](https://reactjs.org/)
+* [React Native](https://reactjs.org/)
 * [Expo](https://vuejs.org/)
 * [Redux / Redux-toolkit](https://angular.io/)
 
