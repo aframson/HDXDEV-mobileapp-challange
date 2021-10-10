@@ -34,12 +34,12 @@ const UserInfo = () => {
             <Text style={styles.name}>{userData.name}</Text>
 
             <View style={styles.infoConatainer}>
-                <View style={styles.infobox}>
+                <View style={[styles.infobox,{borderRightColor:'gray',borderRightWidth:1}]}>
                     <Text style={styles.textCount}>{userData.projects}</Text>
                     <Text style={styles.countTitle}>Projects</Text>
                 </View>
 
-                <View style={styles.infobox}>
+                <View style={[styles.infobox,{borderRightColor:'gray',borderRightWidth:1}]}>
                     <Text style={styles.textCount}>{userData.followers}</Text>
                     <Text style={styles.countTitle}>Followers</Text>
                 </View>
