@@ -97,9 +97,10 @@ installation for both npm and yarn
 ## Roadmap
 
 - [x] Setting up redux
-- [x] implementing redux with the follow button
+- [x] implementing redux with the follow button to create a count for following and unfollowing
 - [x] Loading and catching large images before page rendering this is also to provide a good user experience 
 - [x] Adding slides to the app to make it more lively
+- [x] Added Animation to slides to transition the index according to the design
 
 
 
